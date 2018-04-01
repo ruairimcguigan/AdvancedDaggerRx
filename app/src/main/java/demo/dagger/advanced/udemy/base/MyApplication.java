@@ -5,7 +5,6 @@ import android.app.Application;
 import javax.inject.Inject;
 
 import demo.dagger.advanced.udemy.di.ActivityInjector;
-import demo.dagger.advanced.udemy.di.component.DaggerApplicationComponent;
 
 public class MyApplication extends Application {
 
